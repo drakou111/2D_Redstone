@@ -1,4 +1,4 @@
-module redstonePuzzle {
+module Redstone2D {
     requires javafx.controls;
     requires javafx.fxml;
 
